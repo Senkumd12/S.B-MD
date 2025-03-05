@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['5214774444444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['595986172767'], ['5219999699999'], ['523482800300'], ['573007487856'], ['573008499604'], ['5492266613038']]
+global.owner = [['212625457341', 'ahmed aligur', true], ['593968585383'], ['595986172767'], ['5219999699999'], ['523482800300'], ['573007487856'], ['573008499604'], ['5492266613038']]
 global.mods = []
 global.prems = []
 
@@ -38,7 +38,7 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'LoliBot'
+global.packname = 'SENKU BOT'
 global.author = 'elrebelde21'
 
 //------------[ Versión | Nombre | cuentas ]------------
