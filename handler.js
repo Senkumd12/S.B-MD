@@ -436,7 +436,7 @@ if (xp > 9000) m.reply('chirrido -_-') //
 else
 m.exp += xp*/
 if (!isPrems && plugin.limit && global.db.data.users[m.sender].limit < plugin.limit * 1) {
-m.reply(`*⚠ 𝐒𝐮𝐬 𝐝𝐢𝐚𝐦𝐚𝐧𝐭𝐞 💎 𝐬𝐞 𝐡𝐚𝐧 𝐚𝐠𝐨𝐭𝐚𝐝𝐨 𝐩𝐮𝐞𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚𝐫 𝐦𝐚𝐬 𝐮𝐬𝐚𝐧𝐝𝐨 𝐞𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨:* #buy`)
+m.reply(`*⚠ 𝐒𝐮𝐬 𝐝𝐢𝐚𝐦𝐚𝐧𝐭𝐞 💎 لم يعد لديك جواهر:* #buy`)
 //conn.sendMessage(m.chat, {text: `*⚠ 𝐒𝐮𝐬 𝐝𝐢𝐚𝐦𝐚𝐧𝐭𝐞 💎 𝐬𝐞 𝐡𝐚𝐧 𝐚𝐠𝐨𝐭𝐚𝐝𝐨 𝐩𝐮𝐞𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚𝐫 𝐦𝐚𝐬 𝐮𝐬𝐚𝐧𝐝𝐨 𝐞𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨:* #buy`, contextInfo: {externalAdReply : {mediaUrl: null, mediaType: 1, description: null, "title": wm, body: '', previewType: 0, "thumbnail": img.getRandom(), sourceUrl: [nna, nna2, md, yt, nnn, nnnt, nnnttt, tiktok].getRandom()}}}, { quoted: m })         
 continue
 }
@@ -476,8 +476,8 @@ await plugin.after.call(this, m, extra)
 } catch (e) {
 console.error(e)
 }}
-if (m.limit) m.reply(`*${+m.limit}* diamante 💎usados`)
-if (m.money) m.reply(+m.money + ' LoliCoins usados 🪙') 
+if (m.limit) m.reply(`*${+m.limit}* استخدمت من اجواهر`)
+if (m.money) m.reply(+m.money + ' استخدمت من العملات 🪙') 
 }
 break
 }}} catch (e) {
@@ -655,16 +655,16 @@ console.error(e)
 
 global.dfail = (type, m, conn, usedPrefix) => {
 let msg = {
-rowner: '⚠️ Tu que? este comando es solo para mi propietario',
-owner: '⚠️ Tu que? este comando es solo para mi propietario.',
-mods: '⚠️ Este comando solo lo puedo usar yo. ¡Privilegios de mod! 😘',
-premium: '⚠️ Este comando es solo para usuarios Premium (VIP). ¡Ser VIP tiene sus beneficios! 🌟',
-group: '⚠️ Pendejo este comando es solo para grupos.',
-private: '⚠️ Vamos al privado, este comando solo funciona en el privado del bot. ¡Hablemos en privado! 🤫',
-admin: '🤨 No eres admins. Solo los admins pueden usar este comando.',
-botAdmin: '⚠️ haz admin al Bot "YO" para poder usar este comando.',
-unreg: '「NO ESTAS REGISTRADO」\n\nPA NO APARECES EN MI BASE DE DATOS ✋🥸🤚\n\nPara poder usarme escribe el siguente comando\n\nComando: #reg nombre.edad\nEjemplo: #reg elrebelde.21',
-restrict: '[ 🔐 ] Este comando esta desactivado por mi jefe'
+rowner: '⚠️ هدا الامر لمطوري',
+owner: '⚠️ هدا الامر لمطوري.',
+mods: '⚠️ لا يمكنك استخدام الامر حاليا',
+premium: '⚠️ هدا الامر للمميزين ! 🌟',
+group: 'جرب فالغروب.',
+private: '⚠️ جرب فالخاص!',
+admin: '🤨 هدا الامر للمشرفين فقط.',
+botAdmin: '⚠️ اجعل البوت ادمينا اولا.',
+unreg: '「انت لست مسحل」\n\nاكتب .reg senku.18',
+restrict: '[ 🔐 ] هدا الامر تم ايقافه من طرف المطور'
 }[type]
 if (msg) return conn.sendMessage(m.chat, {text: msg, contextInfo: { mentionedJid: null, forwardingScore: 1, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363355261011910@newsletter', serverMessageId: '', newsletterName: 'LoliBot ✨' }, externalAdReply : {mediaUrl: null, mediaType: 1, description: null, "title": `ℹ️𝐈𝐍𝐅𝐎 ℹ️`, body: wm, previewType: 0, "thumbnail": img.getRandom(), sourceUrl: [nna, nna2, md, yt, nn, tiktok].getRandom()}}}, { quoted: m })
 }
