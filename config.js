@@ -39,40 +39,40 @@ global.moment = moment
 //------------------------[ Stickers ]-----------------------------
 
 global.packname = 'SENKU BOT'
-global.author = 'elrebelde21'
+global.author = 'AHMED ALIGUE'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿' 
+global.wm = 'SENKU BOT' 
 global.vs = '1.9.5'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'https://www.tiktok.com/@elrebelde.21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
+global.yt = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
+global.tiktok = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
+global.md = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
+global.fb = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
+global.face = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
-global.nna2 = 'https://whatsapp.com/channel/0029Vau57ykEwEk5CgosvU3v' //LoliBot update
-global.nnaa = 'https://whatsapp.com/channel/0029Vae6j714Y9loutP3Au29' //LoliBot - Test
-global.nn = 'https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/KDBt6S54riRCIpSZspkxhg' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/GXNXKWSEckU1j1c7sItTxK' //Grupo del Colaboracion
-global.nnntt = 'https://chat.whatsapp.com/Em4Byf4w5VgHObPvZQlfnM' //enlace lolibot
-global.nnnttt = 'https://chat.whatsapp.com/JqcMEpuH7OW9gZNWbtZMnx' //A.T.T.M
-global.nnntttt = 'https://chat.whatsapp.com/ILAHJeZsHh973tQ96i2aqS' //Grupo ayuda sobre el bot
-global.bot = 'wa.me/5213121663423'
+global.nna = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u' //Update
+global.nna2 = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u' //LoliBot update
+global.nnaa = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u' //LoliBot - Test
+global.nn = 'https://chat.whatsapp.com/DpzhrV0CsbED7Dfwog2nYw' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/DpzhrV0CsbED7Dfwog2nYw' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/DpzhrV0CsbED7Dfwog2nYw' //Grupo del Colaboracion
+global.nnntt = 'https://chat.whatsapp.com/DpzhrV0CsbED7Dfwog2nYw' //enlace lolibot
+global.nnnttt = 'https://chat.whatsapp.com/DpzhrV0CsbED7Dfwog2nYw' //A.T.T.M
+global.nnntttt = 'https://chat.whatsapp.com/DpzhrV0CsbED7Dfwog2nYw' //Grupo ayuda sobre el bot
+global.bot = 'wa.me/212713542982'
 global.redes = [nna, nna2, yt, nn, nnn, nnnt, nnntt, nnnttt, nnntttt, md, tiktok, fb, face]
 
 //------------------------[ Info | Datos ]---------------------------
 
-global.wait = 'Calmao pa estoy procesando😎\n\n> *❗Por favor no hacer spam👏❗*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.waittttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▬*'
-global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
-global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
-global.iig = '『❕ 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 』\n\n'
+global.wait = '*انتظر*'
+global.waitt = '*⌛ _انتظر..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _انتظر..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _انتظر..._ ▬▬▬▬▬▬▭*'
+global.waittttt = '*⌛ _انتظر..._ ▬▬▬▬▬▬▬*'
+global.rg = '『✅ النتائح ✅』\n\n'
+global.ag = '『⚠️ تحدير ⚠️』\n\n'
+global.iig = '『❕ معلومة』\n\n'
 global.fg = '『❌ 𝙀𝙍𝙍𝙊𝙍 ❌』\n\n'
 global.mg = '『❗️ 𝙇𝙊 𝙐𝙎𝙊 𝙈𝘼𝙇❗』\n\n'
 global.eeg = '『📩 𝙍𝙀𝙋𝙊𝙍𝙏𝙀 📩』\n\n'
