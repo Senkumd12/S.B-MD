@@ -73,27 +73,27 @@ global.waittttt = '*⌛ _انتظر..._ ▬▬▬▬▬▬▬*'
 global.rg = '『✅ النتائح ✅』\n\n'
 global.ag = '『⚠️ تحدير ⚠️』\n\n'
 global.iig = '『❕ معلومة』\n\n'
-global.fg = '『❌ 𝙀𝙍𝙍𝙊𝙍 ❌』\n\n'
-global.mg = '『❗️ 𝙇𝙊 𝙐𝙎𝙊 𝙈𝘼𝙇❗』\n\n'
-global.eeg = '『📩 𝙍𝙀𝙋𝙊𝙍𝙏𝙀 📩』\n\n'
-global.eg = '『💚 𝙀𝙓𝙄𝙏𝙊𝙎 💚』\n\n'
+global.fg = '『❌ خطأ ❌』\n\n'
+global.mg = '『❗️ استعمال خاطئ❗』\n\n'
+global.eeg = '『📩 بلاغ 📩』\n\n'
+global.eg = '『💚 تم 💚』\n\n'
 
 //-------------------------[ IMAGEN ]------------------------------
 //global.img = "https://qu.ax/Zgqq.jpg"
-global.img1 = 'https://qu.ax/hNJk.jpg'
-global.img2 = 'https://qu.ax/jzhN.jpg'
+global.img1 = 'https://qu.ax/aJEAs.jpg'
+global.img2 = 'https://qu.ax/aJEAs.jpg'
 
 global.imagen = fs.readFileSync('./Menu2.jpg')
 global.imagen1 = fs.readFileSync('./media/Menu1.jpg')
 global.imagen2 = fs.readFileSync('./media/Menu2.jpg')
 global.imagen3 = fs.readFileSync('./media/Menu3.jpg')
 global.imagen4 = fs.readFileSync('./media/Menu4.jpg')
-global.imagen5 = 'https://qu.ax/rULv.jpg'
-global.imagen6 = 'https://qu.ax/CySs.jpg'
-global.menu18 = 'https://qu.ax/MOgO.jpg'
+global.imagen5 = 'https://qu.ax/aJEAs.jpg'
+global.imagen6 = 'https://qu.ax/aJEAs.jpg'
+global.menu18 = 'https://qu.ax/aJEAs.jpg'
 global.vid1 = 'https://qu.ax/dcAc.mp4'
 global.img = [imagen, imagen1, imagen2, imagen3, imagen4]
-global.imageUrl = ["https://qu.ax/HJnWj.jpg", "https://qu.ax/ehPzQ.jpg", "https://qu.ax/ilfbC.jpg"]
+global.imageUrl = ["https://qu.ax/aJEAs.jpg", "https://qu.ax/aJEAs.jpg", "https://qu.ax/aJEAs.jpg"]
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
 
@@ -103,12 +103,12 @@ global.maxwarn = '4' // máxima advertencias
 //---------------[ IDs de canales ]----------------
 
 global.ch = {
-ch1: '120363297379773397@newsletter', 
-ch2: '120363355261011910@newsletter', 
-ch3: '120363160031023229@newsletter',
-ch4: '120363301598733462@newsletter',
-ch5: '120363374372683775@newsletter', 
-ch6: '120363378052785679@newsletter',
+ch1: '120363368805444998@newsletter', 
+ch2: '120363368805444998@newsletter', 
+ch3: '120363368805444998@newsletter',
+ch4: '120363368805444998@newsletter',
+ch5: '120363368805444998@newsletter', 
+ch6: '120363368805444998@newsletter',
 }
 
 //----------------------------------------------------
